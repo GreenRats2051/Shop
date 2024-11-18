@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\student\\source\\repos\\consoleapp6\\consoleapp6\\applianceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\applianceproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\student\\source\\repos\\consoleapp6\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\student\\source\\repos\\consoleapp6\\consoleapp6\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\student\\source\\repos\\consoleapp6\\consoleapp6\\foodproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\foodproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\student\\source\\repos\\consoleapp6\\consoleapp6\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{530A595C-BC1A-4790-8B64-3D0C2564D26E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplianceProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ApplianceProduct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\ApplianceProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ApplianceProduct.cs",
+              "RelativeToolTip": "ConsoleApp6\\ApplianceProduct.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:19:34.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClothingProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ClothingProduct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\ClothingProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ClothingProduct.cs",
+              "RelativeToolTip": "ConsoleApp6\\ClothingProduct.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:18:56.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\FoodProduct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\FoodProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\FoodProduct.cs",
+              "RelativeToolTip": "ConsoleApp6\\FoodProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:17:18.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\IProduct.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\IProduct.cs",
+              "RelativeToolTip": "ConsoleApp6\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:16:38.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "ConsoleApp6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:16:27.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
